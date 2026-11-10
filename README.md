@@ -20,5 +20,5 @@ The deck is a single self-contained HTML file (`index.html`): fonts, photos and 
 
 - Student case study. Not an official document of Renault Group, and not endorsed by it.
 - Figures marked "est." are the group's own estimates from public data.
-- Photos: Calreyn88, Alexander Migl and Yo-Co-Man, Wikimedia Commons, CC BY-SA 4.0.
+- Photos: Alexander Migl and Yo-Co-Man, Wikimedia Commons, CC BY-SA 4.0.
 - Company names and logos belong to their owners.
